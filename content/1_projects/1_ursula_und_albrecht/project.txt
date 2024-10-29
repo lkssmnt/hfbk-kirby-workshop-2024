@@ -1,0 +1,74 @@
+Title: Ursula und Albrecht
+
+----
+
+Gallery:
+
+- file://xYW2o76ODqqI9f9M
+- file://eKqpkmgTzUM9T0SM
+- file://sfi8kfuTkIghUoq2
+- file://hMwGZcDgThHTqAi9
+- file://td8Ozc5ccC6UQxS0
+- file://0QmU6zhVDjynSpfl
+- file://si0lvB6Us0w9XooL
+- file://RGi4WCU9SiSUIWhq
+- file://jgekaubhOgBmrPBn
+- file://cwHcX0UXoZa1m7Jv
+- file://epTjGWQGKxPnADLF
+
+----
+
+Text: <p>This book is a visual biography - the life story of Ursula and Albrecht Paschke. The house at Artur-Brocke-Allee 44, where Ursula and Albrecht have lived for over 50 years, is seen as an autobiographical archive. Their life together is made visible through the objects in the house. The selection of objects on display was made by Ursula and Albrecht themselves. It shows which parts of their possessions have a special meaning for them and creates an object-based portrait of the two people. With each new object, the visual appearance becomes more comprehensive and concrete. The abundance of objects develops a narrative structure. The lives of Ursula and Albrecht are told through the selected objects, silently but eloquently. The significance of the objects for Ursula and Albrecht is not directly stated. The information and photographs of the objects remain on a factual and objective level and are listed in the appendix, sorted according to various criteria. Since the objects are free of any predetermined meanings, an individual picture of Ursula and Albrecht's lives emerges that depends on the viewer. The actual narrator of the story is therefore not the silent objects, but the imagination and associations of the viewer.</p>
+
+----
+
+Author: Paul Rutrecht
+
+----
+
+Tags: Book, Analog, Family, Photography, Collection, Research, Interview, Adobe InDesign, Offset Print
+
+----
+
+Supervision:
+
+- 
+  name: Prof. Heike Grebin
+- 
+  name: Prof. Stefan Stefanescu
+
+----
+
+Year: 2016
+
+----
+
+Term: summer
+
+----
+
+Degree: bachelor
+
+----
+
+Kurse: 
+
+----
+
+Semester: 
+
+----
+
+Abschluss: bachelor
+
+----
+
+Bilder: 
+
+----
+
+Technologie: InDesign
+
+----
+
+Uuid: AHVTOXwrav3sYT8S

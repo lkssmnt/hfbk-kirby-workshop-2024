@@ -1,0 +1,65 @@
+Title: Virtual Body
+
+----
+
+Gallery:
+
+- file://oY8KmVYjiDh3LJ1y
+- file://6FsRg4pmKY5uGMZJ
+- file://ZBhvOVNnVmCvbNz1
+- file://6TdQzcWUl9cDBQkS
+- file://WUqFtnXVyGh5NuB7
+- file://iWEGS4CwyhbY8W8G
+- file://eTLrwTQtwCdSizPk
+- file://uvAEW3R1kjyGcWK0
+- file://EmqyZ3wLoChQ9B8I
+- file://LXYIiXn4HXPnIZdR
+
+----
+
+Text: <p>The bachelor thesis is dedicated to the question of how we exist in cyberspace and what this can look like. A video and an accompanying catalog present an interpretation of a 'virtual body' and draw attention to the lack of awareness of our movement in the virtual world and the 'digital traces' we leave behind.</p>
+
+----
+
+Author: Marie Dommenget
+
+----
+
+Tags: Data Visualisation, Collection, Experiment, Digital Print, Book, Installation, Analog, Bodies, Feminism
+
+----
+
+Supervision:
+
+- 
+  name: Prof. Heike Grebin
+- 
+  name: Prof. Dr. Anke Haarmann
+
+----
+
+Year: 2016
+
+----
+
+Term: summer
+
+----
+
+Degree: bachelor
+
+----
+
+Kurse: 
+
+----
+
+Semester: 
+
+----
+
+Abschluss: bachelor
+
+----
+
+Uuid: w6hzMxNrDaZLwGQ6

@@ -1,0 +1,55 @@
+tabs:
+  content:
+    columns:
+      left:
+        width: 2/3
+        sections:
+          contentleft:
+            type: fields
+            fields:
+              gallery:
+                type: files
+                layout: cards
+                size: small
+
+              text:
+                type: writer
+
+      right:
+        width: 1/3
+        sections:
+          contentright:
+            type: fields
+            fields:
+              author:
+                type: text
+
+              tags:
+                type: tags
+
+              supervision:
+                type: structure
+                fields:
+                  name:
+                    type: text
+
+              year:
+                type: number      
+
+              term:
+                type: select
+                options:
+                  summer: Summer
+                  winter: Winter          
+
+              degree:
+                type: select
+                options:
+                  bachelor: Bachelor
+                  master: Master
+                  diplom: Diplom
+
+  files:
+    sections:
+      files:
+        type: files
