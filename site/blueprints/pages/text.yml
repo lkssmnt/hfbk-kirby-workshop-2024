@@ -1,3 +1,7 @@
 fields:
   text:  
     type: writer
+  footnotes:
+    type: writer
+    marks: false
+

@@ -1,8 +1,14 @@
-Text: <h1>Post-Artifact Books and Publishing: Digital's effect on how we produce, distribute and consume content.</h1>
+Title: Post Artifact Books
 
-<p>Craig Mod, <em>June 2011</em><p>
+----
 
-<p>What is a book, anymore, anyway?</p>
+Text:
+
+<h1>Post-Artifact Books and Publishing: Digital's effect on how we produce, distribute and consume content.</h1>
+
+<p>Craig Mod, <em>June 2011</em></p><p>
+
+</p><p>What is a book, anymore, anyway?</p>
 
     <p><strong>We will always debate:</strong> <em>the quality of the paper, the pixel density of the display; the cloth used on covers, the interface for highlighting; location by page, location by paragraph.</em></p>
 
@@ -354,7 +360,9 @@ Text: <h1>Post-Artifact Books and Publishing: Digital's effect on how we produce
 
     <p>All of these efforts combined, these systems integrated, these tools made well and deliberately. This is the future book. Our platform for post-artifact books and publishing.</p>
 
+----
 
+Footnotes: <p>Footnote</p>
 
 ----
 

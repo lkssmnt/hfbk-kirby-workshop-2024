@@ -32,6 +32,8 @@ tabs:
                 fields:
                   name:
                     type: text
+                  email:
+                    type: email
 
               year:
                 type: number      

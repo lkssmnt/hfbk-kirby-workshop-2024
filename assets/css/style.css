@@ -1,11 +1,6 @@
-@font-face {
-  font-family: 'Diatype';
-  src: url('../fonts/ABCDiatypeEdu-Regular.woff2') format('woff2')
-}
-
 :root {
   --main-color: #FF9000;
-  font-family: 'Diatype';
+  font-family: Helvetica, sans-serif;
   font-size: 22px;
 }
 
@@ -18,4 +13,12 @@
   text-rendering: geometricPrecision;
   list-style: none;
   color: var(--main-color);
+}
+
+img {
+  max-width: 500px;
+}
+
+img:first-child {
+  max-width: 1000px;
 }
