@@ -92,16 +92,17 @@ function updateHtmlFiles(dir, urlMap) {
 
       // Replace all media URLs
       urlMap.forEach((r2Url, localPath) => {
-        const relativePath = path.relative(config.paths.websiteDir, localPath).replace(/^\/+/, ""); // Remove leading slashes
+        const relativePath = path.relative(config.paths.websiteDir, localPath).replace(/\\/g, "/"); // Ensure forward slashes
 
         // Match the full path with optional leading slash
-        const pattern = new RegExp(`(?:\/)?${relativePath.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}`, "g");
+        const pattern = new RegExp(`(?:\\/)?${relativePath.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}`, "g");
 
         content = content.replace(pattern, r2Url); // Ensure no leading slash in the URL
       });
 
       // Remove leading slashes from src attributes
       content = content.replace(/src="\/(https:\/\/[^"]+)"/g, 'src="$1"');
+
 
       fs.writeFileSync(fullPath, content);
       console.log(`Updated: ${fullPath}`);
