@@ -58,3 +58,6 @@ Icon
 kirby
 media
 vendor
+
+node_modules
+.env
