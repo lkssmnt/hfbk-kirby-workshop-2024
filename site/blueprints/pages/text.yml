@@ -1,7 +1,13 @@
 fields:
+  author:
+    type: text    
+  date:
+    type: date
   text:  
-    type: writer
+    type: writer     
   footnotes:
     type: writer
     marks: false
+
+  
 

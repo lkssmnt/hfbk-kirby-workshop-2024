@@ -3,3 +3,9 @@ title: Site
 sections:
   pages:
     type: pages
+
+  settings:
+    type: fields
+    fields:
+      staticSiteGenerator:
+        label: Static Site Generator
